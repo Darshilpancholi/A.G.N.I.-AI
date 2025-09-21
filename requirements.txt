@@ -16,3 +16,5 @@ pydantic
 
 # Production Server
 gunicorn
+#AI 
+aiohttp
